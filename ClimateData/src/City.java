@@ -8,7 +8,7 @@ public class City {
 		this.name = name;
 		this.state = state;
 		this.highTemp = highTemp;
-		this.lowTemp = highTemp;
+		this.lowTemp = lowTemp;
 	}
 	
 	public String getName() {
